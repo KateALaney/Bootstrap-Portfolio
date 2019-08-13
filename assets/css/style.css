@@ -1,10 +1,14 @@
 html{
     height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 body{
     background-image: url("../images/light-background.jpeg");
     height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 h1{
@@ -16,11 +20,14 @@ h5{
     font-family: 'Fredericka the Great', cursive;
     color: white;
     text-align: center;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 p{
     color: rgb(241, 221, 37);
     font-family: 'Fredericka the Great', cursive;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-size: 18px;
 }
 
 br{
@@ -62,4 +69,3 @@ img{
 .top-buffer{
     margin-top: 60px;
 }
-
