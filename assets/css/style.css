@@ -1,0 +1,62 @@
+body{
+    background-image: url("../images/light-background.jpeg");
+}
+
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    color: rgb(241, 221, 37);
+}
+
+h5{
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: rgb(241, 221, 37);
+    font-family: 'Fredericka the Great', cursive;
+}
+
+br{
+    text-align: center;
+}
+
+a{
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+}
+
+img{
+    border: 2px #C37528 solid;
+}
+
+.card{
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+.footer{
+    background-color: #373737;
+    border-top: 8px solid #C37528;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    color: rgb(241, 221, 37);
+    padding-top: 50px;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 12px;
+}
+
+.navbar-brand{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.top-buffer{
+    margin-top: 60px;
+}
+
+.col-md-6{
+    
+}
