@@ -51,6 +51,7 @@ img{
     padding-top: 50px;
     font-family: 'Fredericka the Great', cursive;
     font-size: 12px;
+    bottom: 0;
 }
 
 .navbar-brand{
