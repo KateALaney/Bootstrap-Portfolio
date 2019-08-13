@@ -1,5 +1,10 @@
+html{
+    height: 100%;
+}
+
 body{
     background-image: url("../images/light-background.jpeg");
+    height: 100%;
 }
 
 h1{
@@ -40,8 +45,7 @@ img{
     background-color: #373737;
     border-top: 8px solid #C37528;
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    width: 100%;
     text-align: center;
     color: rgb(241, 221, 37);
     padding-top: 50px;
@@ -51,12 +55,10 @@ img{
 
 .navbar-brand{
     font-family: 'Fredericka the Great', cursive;
+    font-size: 48px;
 }
 
 .top-buffer{
     margin-top: 60px;
 }
 
-.col-md-6{
-    
-}
