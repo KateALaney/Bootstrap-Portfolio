@@ -21,6 +21,7 @@ h5{
     color: white;
     text-align: center;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-size: 26px;
 }
 
 p{
@@ -51,14 +52,12 @@ img{
 .footer{
     background-color: #373737;
     border-top: 8px solid #C37528;
-    position: absolute;
     width: 100%;
     text-align: center;
     color: rgb(241, 221, 37);
     padding-top: 50px;
     font-family: 'Fredericka the Great', cursive;
     font-size: 12px;
-    bottom: 0;
 }
 
 .navbar-brand{
@@ -69,3 +68,27 @@ img{
 .top-buffer{
     margin-top: 60px;
 }
+
+.top-buffer2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-text{
+    text-align: center;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 24px;
+}
+
+.btn-dark{
+    background-color: black;
+    border: 1px solid black;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+label{
+    color: white;
+    font-family: 'Fredericka the Great', cursive;
+}
+
