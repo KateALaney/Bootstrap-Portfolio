@@ -49,17 +49,6 @@ img{
     margin-left: 35px;
 }
 
-.footer{
-    background-color: #373737;
-    border-top: 8px solid #C37528;
-    width: 100%;
-    text-align: center;
-    color: rgb(241, 221, 37);
-    padding-top: 50px;
-    font-family: 'Fredericka the Great', cursive;
-    font-size: 12px;
-}
-
 .navbar-brand{
     font-family: 'Fredericka the Great', cursive;
     font-size: 48px;
@@ -92,3 +81,19 @@ label{
     font-family: 'Fredericka the Great', cursive;
 }
 
+#page-content {
+    flex: 1 0 auto;
+  }
+  
+  #sticky-footer {
+    flex-shrink: none;
+    background-color: #373737;
+    border-top: 8px solid #C37528;
+    padding-top: 50px;
+    font-family: 'Fredericka the Great', cursive;
+  }
+
+  .bg-dark{
+      color: rgb(241, 221, 37)
+      
+  }
