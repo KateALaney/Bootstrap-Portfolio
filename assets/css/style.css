@@ -33,7 +33,7 @@ h6{
 
 p{
     color: white;
-    font-family: 'Fredericka the Great', cursive;
+    font-family: 'News Cycle', sans-serif;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     font-size: 18px;
 }
@@ -67,7 +67,7 @@ img{
 .list-group-item{
     background-color: #363636;
     border: 1px #C37528 solid;
-    font-family: "Fredericka the Great", cursive;
+    font-family: "News Cycle", sans-serif;
     color: white;
 }
 
