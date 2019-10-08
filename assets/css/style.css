@@ -24,8 +24,15 @@ h5{
     font-size: 26px;
 }
 
-p{
+h6{
+    font-family: 'Fredericka the Great', cursive;
     color: rgb(241, 221, 37);
+    text-align: center;
+    font-size: 26px;
+}
+
+p{
+    color: white;
     font-family: 'Fredericka the Great', cursive;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     font-size: 18px;
@@ -37,7 +44,11 @@ br{
 
 a{
     font-family: 'Fredericka the Great', cursive;
-    color: white;
+    color: rgb(241, 221, 37);
+}
+a:hover{
+    font-family: "Fredericka the Great", cursive;
+    color: black;
 }
 
 img{
@@ -47,6 +58,17 @@ img{
 .card{
     margin-right: 35px;
     margin-left: 35px;
+}
+
+.card-header{
+    background-color: #363636;
+}
+
+.list-group-item{
+    background-color: #363636;
+    border: 1px #C37528 solid;
+    font-family: "Fredericka the Great", cursive;
+    color: white;
 }
 
 .navbar-brand{
