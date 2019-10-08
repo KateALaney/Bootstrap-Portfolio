@@ -119,3 +119,7 @@ label{
       color: rgb(241, 221, 37)
       
   }
+
+  .form-control{
+      font-family: "News Cycle", sans-serif;
+  }
